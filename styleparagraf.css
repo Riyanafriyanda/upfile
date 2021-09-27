@@ -1,0 +1,14 @@
+.Header{
+		width: 91%;
+		height: 100px;
+		background: red;
+		text-align: center;
+		padding-top:  15px;
+	}
+.moto{
+	width: 91%;
+	height: 50px;
+	background: yellow;
+	text-align: center;
+	padding-top: 0px;
+}
